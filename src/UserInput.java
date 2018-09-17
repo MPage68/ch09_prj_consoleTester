@@ -1,5 +1,5 @@
 
-public interface UserInputer {
+public interface UserInput {
 	int getInt(String prompt);
 
 	int getInt(String prompt, int min, int max);

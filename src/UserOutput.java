@@ -1,5 +1,5 @@
 
-public interface UserOutputer {
+public interface UserOutput {
 	void print(String s);
 
 	void println();
